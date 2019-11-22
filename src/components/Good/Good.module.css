@@ -1,0 +1,16 @@
+.row {
+    display: flex;
+    justify-content: space-between;
+    border: solid 1px lightgray;
+    font-size: 12px;
+    padding-left: 5px;
+    margin-top: -1px;
+    cursor: pointer;
+}
+
+.price {
+    background: aliceblue;
+    min-width: 60px;
+    text-align: center;
+    font-weight: bold;
+}
